@@ -21,3 +21,6 @@ function checkVowel()
     document.getElementById("res").innerHTML = "a number neither a Vowel nor a Constant";
   }
 }
+
+//code by anshul soni 
+//visit my website- https://anshulsoni.netlify.app
